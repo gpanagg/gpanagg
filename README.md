@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm George Panagiotakis</h1>
-<h3 align="center">Working with data</h3>
+<h1 align="center">Hi 👋, I'm George</h1>
+<h3 align="center">Passionate about leveraging data to solve complex problems and constantly exploring the latest advancements in technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
